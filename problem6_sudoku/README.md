@@ -1,4 +1,4 @@
-DONE BY Sathrigan RA2411026050273
+DONE BY Sathrigan RA2411026050264
 https://joshua-2007.github.io/Sudoku_AI_ProblemSolving_-RA2411026050099-RA2411026050091-/problem6_sudoku/
 📄 Problem 6 Description(SUDOKU)
 
