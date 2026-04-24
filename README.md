@@ -1,4 +1,4 @@
-https://joshua14406.github.io/AI_Problemsolving-RA2411026050273-/problem1_tictactoe/tictactoe.html
+https://joshua14406.github.io/AI_Problemsolving-RA2411026050273-RA2411026050264/problem1_tictactoe/tictactoe.html
 
 # Problem 1: Tic-Tac-Toe AI (Interactive Game)
 
