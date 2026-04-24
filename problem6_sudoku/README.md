@@ -1,5 +1,5 @@
 DONE BY Sathrigan RA2411026050264
-https://joshua14406.github.io/AI_Problemsolving-RA2411026050273-/problem6_sudoku/index.html
+https://joshua14406.github.io/AI_Problemsolving-RA2411026050273-RA2411026050264/problem6_sudoku/index.html
 📄 Problem 6 Description(SUDOKU)
 
 This project implements a Sudoku Solver using the Constraint Satisfaction Problem (CSP) approach. A partially filled 9×9 Sudoku grid is provided to the user through an interactive interface. The user can input values into empty cells, and the system validates the solution based on Sudoku rules. Additionally, the system can automatically solve the puzzle using a backtracking algorithm.
