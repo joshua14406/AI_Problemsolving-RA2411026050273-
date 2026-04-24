@@ -46,16 +46,12 @@ The algorithm explores all possible moves in a tree-like structure to determine 
 - Game result messages:
   - 🎉 "You Win!"  
   - 😈 "AI Wins!"  
-  - 🤝 "Draw!"  
+  - 🤝 "Draw!"
+    
 
----
+ ---
 
-## Interactive Website
-
-https://joshua-2007.github.io/Sudoku_AI_ProblemSolving_-RA2411026050099-RA2411026050091-/problem1_tictactoe/tictactoe.html
-
----
-
+ 
 ## Technologies Used
 
 - HTML  
